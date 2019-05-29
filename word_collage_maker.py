@@ -53,7 +53,7 @@ def create_word_dic(word_list: List[str]) -> Dict[int, Dict[str, Set[int]]]:
                     word_dic[slice_len][slice_word] = set()
 
                 # 登録
-                    word_dic[slice_len][slice_word].add(index)
+                word_dic[slice_len][slice_word].add(index)
     return word_dic
 
 
