@@ -11,7 +11,7 @@ positional arguments:
 
 optional arguments:
   -h, --help            show this help message and exit
-  -WORD_COUNT WORD_COUNT
+  -WORD_COUNT WORD_COUNT 候補を表示する最大数
 ```
 
 ## 使用例
